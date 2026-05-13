@@ -26,6 +26,4 @@ Through this project, I improved my skills in:
 - Responsive Web Design
 - UI Styling and Animations
 
-## Author
-Manisha  
-Web Development Intern at SkillCraft Technology
+
